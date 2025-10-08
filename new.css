@@ -1,5 +1,11 @@
 p{
  color : red;
  background-color : blue;
+<<<<<<< HEAD
  font-weight: 200;
 }
+=======
+ font-weight: 100;
+ line-height : 5;
+}
+>>>>>>> 8ddda173edb06afe8061398b28eed5c27a25cee8
